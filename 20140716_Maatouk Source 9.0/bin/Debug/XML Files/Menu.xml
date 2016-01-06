@@ -1,0 +1,30 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43520" Position="13" String="Maatouk IRC1" Type="2" UniqueID="Z_mnu_FU002" Image="">
+				<Menus>
+					<action type="add">
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU002" Position="0" String="G/L Account Setup" Type="1" UniqueID="Z_mnu_D004" />
+					</action>
+
+          <action type="add">
+            <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU002" Position="1" String="Import  IRC1" Type="1" UniqueID="Z_mnu_D003" />
+          </action>
+				</Menus>
+			</Menu>
+			<!--<Menu Checked="0" Enabled="1" FatherUID="43525" Position="13" String="Futura Interface -Setup" Type="2" UniqueID="Z_mnu_FU001" Image="">
+				<Menus>
+					<action type="add">
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU001" Position="0" String="Futura Integration Mapping" Type="1" UniqueID="Z_mnu_FU003" />
+						--><!--<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU001" Position="1" String="Country Code Mapping" Type="1" visible="false"  UniqueID="Z_mnu_FU002" />
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU001" Position="2" String="Company Code Mapping" Type="1" UniqueID="Z_mnu_FU003" />
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU001" Position="3" String="Branch Mapping" Type="1" visible="false"  UniqueID="Z_mnu_FU004" />
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU001" Position="4" String="Brand Mapping" Type="1" visible="false"  UniqueID="Z_mnu_FU005" />--><!--
+					</action>
+				</Menus>
+			</Menu>-->
+			
+			
+		</action>
+	</Menus>
+</Application>

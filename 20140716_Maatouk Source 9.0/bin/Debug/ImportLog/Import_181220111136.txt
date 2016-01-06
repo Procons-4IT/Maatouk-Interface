@@ -1,0 +1,45 @@
+18/12/2011:1136 --> Reading shipment files...
+18/12/2011:1136 --> Reading Shipment file completed
+18/12/2011:1136 --> Reading ASN Files...
+18/12/2011:1136 --> Reading ADN File Completed
+18/12/2011:1136 --> Reading ADJ Files processing..
+18/12/2011:1136 --> Reading Adjustment file completed
+18/12/2011:1136 --> Reading HOLD Files processing..
+18/12/2011:1136 --> Reading HOLD file completed
+18/12/2011:1136 --> Import Reading files Processing...
+18/12/2011:1136 --> Import Reading files Process Completed....
+18/12/2011:1136 --> Document Creation Processing...
+18/12/2011:1136 --> XASN-GRPO Import starting...
+18/12/2011:1136 --> Importing FileName--> XASN_13122011124152.csv data
+18/12/2011:1136 --> GRPO Document Created successfully. 276
+18/12/2011:1136 --> Importing FileName--> XASN_13122011124152.csv data completed
+18/12/2011:1136 --> XASN-GRPO Import Completed
+18/12/2011:1136 --> XASN-RETURNS Import starting...
+18/12/2011:1136 --> Importing FileName--> XASN_13122011124152.csv data
+18/12/2011:1137 --> Return Document Created successfully. 34
+18/12/2011:1137 --> Importing FileName--> XASN_13122011124152.csv data completed
+18/12/2011:1137 --> XASN-Returns Import Completed
+18/12/2011:1137 --> XASN-ARCR Import starting...
+18/12/2011:1137 --> Importing FileName--> XASN_13122011124152.csv data
+18/12/2011:1137 --> AR-Credit Memo Document Created successfully. 201112012
+18/12/2011:1137 --> Importing FileName--> XASN_13122011124152.csv data completed
+18/12/2011:1137 --> XASN-ARCR Import Completed
+18/12/2011:1137 --> Import Inventory adjustment processing...
+18/12/2011:1137 --> No records to Import
+18/12/2011:1137 --> Import XSO Processing...
+18/12/2011:1137 --> Importing FileName--> XSO_1412201115012.csv data
+18/12/2011:1137 --> Delivery Document Created successfully. 249
+18/12/2011:1137 --> Importing FileName--> XSO_1412201115012.csv data completed
+18/12/2011:1137 --> Importing FileName--> XSO_14122011150657.csv data
+18/12/2011:1137 --> Delivery Document Created successfully. 250
+18/12/2011:1137 --> Importing FileName--> XSO_14122011150657.csv data completed
+18/12/2011:1137 --> Importing FileName--> XSO_14122011150658.csv data
+18/12/2011:1137 --> Delivery Document Created successfully. 251
+18/12/2011:1137 --> Importing FileName--> XSO_14122011150658.csv data completed
+18/12/2011:1137 --> Import XSO completed...
+18/12/2011:1137 --> XHOLD starting...
+18/12/2011:1137 --> Importing FileName--> XHOL_14122011125746.csv data
+18/12/2011:1137 -->  [OWTR.Filler] , 'No matching records found (ODBC -2028)' : FileName =XHOL_14122011125746.csv
+18/12/2011:1137 --> Importing FileName--> XHOL_14122011125746.csv data completed
+18/12/2011:1137 --> XHOLDImport Completed
+18/12/2011:1137 --> Document Creation Process Completed....

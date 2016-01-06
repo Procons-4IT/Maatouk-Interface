@@ -1,0 +1,18 @@
+16/12/2011:1918 --> Reading ADJ Files processing..
+16/12/2011:1918 --> Reading Adjustment File Processing...File Name : XINV_13122011175600.csv
+16/12/2011:1918 --> Reading ADJ File Failed...File Name : XINV_13122011175600.csv
+16/12/2011:1918 --> Error -> Index and length must refer to a location within the string.
+Parameter name: length
+16/12/2011:1918 --> Reading SO file failed: Filename : XINV_13122011175600.csv Moved to Error folder
+16/12/2011:1918 --> Reading Adjustment File Processing...File Name : XINV_14122011151229.csv
+16/12/2011:1918 --> Reading ADJ File Failed...File Name : XINV_14122011151229.csv
+16/12/2011:1918 --> Error -> Index and length must refer to a location within the string.
+Parameter name: length
+16/12/2011:1918 --> Reading SO file failed: Filename : XINV_14122011151229.csv Moved to Error folder
+16/12/2011:1918 --> Reading Adjustment file completed
+16/12/2011:1918 --> Import Reading files Processing...
+16/12/2011:1918 --> Import Reading files Process Completed....
+16/12/2011:1918 --> Document Creation Processing...
+16/12/2011:1918 --> Import Inventory adjustment processing...
+16/12/2011:1918 --> No records to Import
+16/12/2011:1918 --> Document Creation Process Completed....

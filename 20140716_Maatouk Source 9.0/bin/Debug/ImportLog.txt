@@ -1,0 +1,6 @@
+151220111101 --> Goods Issue Document Created successfully. 20
+151220111101 --> Goods Recipt Document Created successfully. 153
+151220111102 --> Goods Issue Document Created successfully. 21
+151220111102 --> Goods Recipt Document Created successfully. 154
+151220111102 --> Goods Issue Document Created successfully. 22
+151220111102 --> Goods Recipt Document Created successfully. 155

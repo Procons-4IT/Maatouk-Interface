@@ -1,0 +1,12 @@
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\JE Transfer.exe.config
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE_Transfer.frmLoginScreen.resources
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\JE Transfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\JE Transfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\JE Transfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\Interop.SAPbobsCOM.dll

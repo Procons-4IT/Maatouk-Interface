@@ -1,0 +1,33 @@
+SCC = This is a Source Code Control file
+
+[PricingChanges.sln]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/Premier Results/PremierRef09", IITAAAAA
+
+[PricingChanges.vbproj]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/Premier Results/PremierRef09", IITAAAAA
+
+[CompanionItem.sln]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/Premier Results/PremierRef13", BPUAAAAA
+
+[CompanionItem.vbproj]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/Premier Results/PremierRef13", BPUAAAAA
+
+[LotusNotes.vbproj]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/Premier Results/PremierRef14", TQUAAAAA
+
+[LotusNotes.sln]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/Premier Results/PremierRef14", TQUAAAAA
+
+[DSSRef06.sln]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/Europe/DataSupportServices/DSSRef06/Sourcecode", VTVAAAAA
+
+[DSSRef06.vbproj]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/Europe/DataSupportServices/DSSRef06/Sourcecode", VTVAAAAA

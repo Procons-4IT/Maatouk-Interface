@@ -1,0 +1,32 @@
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\bin\JE Transfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\bin\JE Transfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\bin\JE Transfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\bin\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\JE Transfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\JE_Transfer.frmLoginScreen.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\JE Transfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\JE Transfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\JE Transfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ProjecMX_ External Progra_9.0\DABT_ProjectMX\obj\Debug\JE Transfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\JE Transfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\JE Transfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\JE Transfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\bin\JE Transfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\bin\JE Transfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\bin\JE Transfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\bin\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\JE Transfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\JE_Transfer.frmLoginScreen.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Kuwait\Payroll with NE\Payroll Phase III\BISB\20140412_Source_ External Progra_9.0\JE Transfer_External\obj\Debug\JE Transfer.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.exe
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.xml
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE_Transfer.frmLoginScreen.resources
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\JE Transfer.vbproj.GenerateResource.Cache

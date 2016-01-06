@@ -1,0 +1,12 @@
+﻿<Application>
+	<Menus>
+		<action type="remove">
+			<!--<Menu UniqueID="DABT_910"></Menu>-->
+			<Menu UniqueID="Z_mnu_FU007"></Menu>
+			<Menu UniqueID="Z_mnu_FU002"></Menu>
+	   	<Menu UniqueID="Z_mnu_FU003"></Menu>
+      <Menu UniqueID="Z_mnu_FU004"></Menu>
+			<Menu UniqueID="Z_mnu_FU001"></Menu>
+		</action>
+	</Menus>
+</Application>

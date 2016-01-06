@@ -1,0 +1,47 @@
+13/01/2012:1556 --> Reading ASN Files...
+13/01/2012:1556 --> Reading ADN File Completed
+13/01/2012:1556 --> Import Reading files Processing...
+13/01/2012:1556 --> Import Reading files Process Completed....
+13/01/2012:1556 --> Document Creation Processing...
+13/01/2012:1556 --> XASN-GRPO Import starting...
+13/01/2012:1556 --> Importing FileName--> XASN_GF_10012012170049.csv data
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1721
+13/01/2012:1556 --> Importing FileName--> XASN_GF_10012012170049.csv data completed
+13/01/2012:1556 --> Importing FileName--> XASN_GF_10012012170049.csv data
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1722
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1722
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1722
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1722
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1722
+13/01/2012:1556 --> Purchase order does not exits : FileName =XASN_GF_10012012170049.csv : Order No : 1722
+13/01/2012:1556 --> Importing FileName--> XASN_GF_10012012170049.csv data completed
+13/01/2012:1556 --> XASN-GRPO Import Completed
+13/01/2012:1556 --> XASN-RETURNS Import starting...
+13/01/2012:1556 --> No Records to Import...
+13/01/2012:1556 --> XASN-RETURNS Completed...
+13/01/2012:1556 --> XASN-ARCR Import starting...
+13/01/2012:1556 --> No Records to Import...
+13/01/2012:1556 --> XASN Import Completed...
+13/01/2012:1556 --> XASN-ST Import starting...
+13/01/2012:1556 --> Importing FileName--> XASN_GF_10012012170049.csv data
+13/01/2012:1557 --> Stock transfer Document Created successfully. 26
+13/01/2012:1557 --> Importing FileName--> XASN_GF_10012012170049.csv data completed
+13/01/2012:1557 --> Importing FileName--> XASN_GF_10012012170049.csv data
+13/01/2012:1557 --> Stock transfer Document Created successfully. 27
+13/01/2012:1557 --> Importing FileName--> XASN_GF_10012012170049.csv data completed
+13/01/2012:1557 --> XASN-ST Import Completed
+13/01/2012:1557 --> Document Creation Process Completed....

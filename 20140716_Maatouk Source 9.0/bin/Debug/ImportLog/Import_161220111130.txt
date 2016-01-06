@@ -1,0 +1,55 @@
+16/12/2011:1130 --> Reading shipment files...
+16/12/2011:1130 --> Reading Shipment File Processing...File Name : XSO_14122011150657.csv
+16/12/2011:1130 --> Reading Process Completed: Filename-->XSO_14122011150657.csv Moved to success folder
+16/12/2011:1130 --> Reading Shipment file completed
+16/12/2011:1130 --> Reading ASN Files...
+16/12/2011:1130 --> Reading ADN File Completed
+16/12/2011:1130 --> Reading ADJ Files processing..
+16/12/2011:1130 --> Reading Adjustment File Processing...File Name : XINV_14122011151230.csv
+16/12/2011:1130 --> Reading Process Completed: Filename-->XINV_14122011151230.csv Moved to success folder
+16/12/2011:1130 --> Reading Adjustment file completed
+16/12/2011:1130 --> Reading HOLD Files processing..
+16/12/2011:1130 --> Reading HOLD File Processing...File Name : XHOL_14122011125746.csv
+16/12/2011:1130 --> Reading HOLD File Failed...File Name : XHOL_14122011125746.csv
+16/12/2011:1130 --> Error -> 1). [Microsoft][SQL Native Client][SQL Server]Invalid object name '@Z_DABT_XHOL'.
+2). [Microsoft][SQL Native Client][SQL Server]Statement(s) could not be prepared.
+
+16/12/2011:1130 --> Reading HOLD file failed: Filename : XHOL_14122011125746.csv Moved to Error folder
+16/12/2011:1130 --> Reading HOLD file completed
+16/12/2011:1130 --> Import Reading files Processing...
+16/12/2011:1130 --> Import Reading files Process Completed....
+16/12/2011:1130 --> Document Creation Processing...
+16/12/2011:1130 --> XASN-GRPO Import starting...
+16/12/2011:1130 --> Importing FileName--> XASN_13122011124152.csv data
+16/12/2011:1130 --> GRPO Document Created successfully. 275
+16/12/2011:1130 --> Importing FileName--> XASN_13122011124152.csv data completed
+16/12/2011:1130 --> XASN-GRPO Import Completed
+16/12/2011:1130 --> XASN-RETURNS Import starting...
+16/12/2011:1130 --> Importing FileName--> XASN_14122011172135.csv data
+16/12/2011:1131 --> Return Document Created successfully. 26
+16/12/2011:1131 --> Importing FileName--> XASN_14122011172135.csv data completed
+16/12/2011:1131 --> Importing FileName--> XASN_14122011172135.csv data
+16/12/2011:1131 --> Return Document Created successfully. 27
+16/12/2011:1131 --> Importing FileName--> XASN_14122011172135.csv data completed
+16/12/2011:1131 --> XASN-Returns Import Completed
+16/12/2011:1131 --> XASN-ARCR Import starting...
+16/12/2011:1131 --> Importing FileName--> XASN_13122011124152.csv data
+16/12/2011:1131 --> AR-Credit Memo Document Created successfully. 201112007
+16/12/2011:1131 --> Importing FileName--> XASN_13122011124152.csv data completed
+16/12/2011:1131 --> Importing FileName-->  data
+16/12/2011:1131 --> Importing FileName-->  data completed
+16/12/2011:1131 --> XASN-ARCR Import Completed
+16/12/2011:1131 --> Import Inventory adjustment processing...
+16/12/2011:1131 --> Importing FileName--> XINV_14122011151230.csv data
+16/12/2011:1131 --> Goods Issue Document Created successfully. 38
+16/12/2011:1131 --> Importing FileName--> XINV_14122011151230.csv data completed
+16/12/2011:1131 --> Importing FileName--> XINV_14122011151230.csv data
+16/12/2011:1131 --> Goods Recipt Document Created successfully. 171
+16/12/2011:1131 --> Importing FileName--> XINV_14122011151230.csv data completed
+16/12/2011:1131 --> Import Adjustment files completed...
+16/12/2011:1131 --> Import XSO Processing...
+16/12/2011:1131 --> Importing FileName--> XSO_14122011150657.csv data
+16/12/2011:1131 --> Sales order does not exits : FileName =XSO_14122011150657.csv : Order No : 142790
+16/12/2011:1131 --> Importing FileName--> XSO_14122011150657.csv data completed
+16/12/2011:1131 --> Import XSO completed...
+16/12/2011:1131 --> Document Creation Process Completed....

@@ -1,0 +1,2 @@
+16/12/2011:1923 --> Reading ADJ Files processing..
+16/12/2011:1923 --> Reading Adjustment File Processing...File Name : XINV_13122011175602.csv

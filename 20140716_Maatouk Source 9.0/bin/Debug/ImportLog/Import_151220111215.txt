@@ -1,0 +1,57 @@
+15/12/2011:1215 --> Import Reading files Processing...
+15/12/2011:1215 --> Reading shipment files...
+15/12/2011:1215 --> Reading Shipment File Processing...File Name : XSO_14122011150657 - Copy.csv
+15/12/2011:1215 --> Reading SO File Failed...File Name : XSO_14122011150657 - Copy.csv
+15/12/2011:1215 --> Error -> Index was outside the bounds of the array.
+15/12/2011:1215 --> Reading SO file failed: Filename : XSO_14122011150657 - Copy.csv Moved to Error folder
+15/12/2011:1215 --> Reading Shipment File Processing...File Name : XSO_14122011150657.csv
+15/12/2011:1215 --> Reading Process Completed: Filename-->XSO_14122011150657.csv Moved to success folder
+15/12/2011:1215 --> Reading Shipment file completed
+15/12/2011:1215 --> Reading ASN Files...
+15/12/2011:1215 --> Reading ASN File Processing...File Name : XASN_13122011124151 - Copy.csv
+15/12/2011:1215 --> Reading ADN file Failed...File Name : XASN_13122011124151 - Copy.csv
+15/12/2011:1215 --> Error -> Index was outside the bounds of the array.
+15/12/2011:1215 --> Reading SO file failed: Filename : XASN_13122011124151 - Copy.csv Moved to Error folder
+15/12/2011:1215 --> Reading ASN File Processing...File Name : XASN_13122011124151.csv
+15/12/2011:1215 --> Reading Process Completed: Filename-->XASN_13122011124151.csv Moved to success folder
+15/12/2011:1216 --> Reading ADN File Completed
+15/12/2011:1216 --> Reading ADJ Files processing..
+15/12/2011:1216 --> Reading Adjustment File Processing...File Name : XINV_14122011151229 - Copy.csv
+15/12/2011:1216 --> Reading Process Completed: Filename-->XINV_14122011151229 - Copy.csv Moved to success folder
+15/12/2011:1216 --> Reading Adjustment File Processing...File Name : XINV_14122011151229.csv
+15/12/2011:1216 --> Reading Process Completed: Filename-->XINV_14122011151229.csv Moved to success folder
+15/12/2011:1216 --> Import Reading files Process Completed....
+15/12/2011:1216 --> Document Creation Processing...
+15/12/2011:1216 --> XASN Import starting...
+15/12/2011:1216 --> Importing FileName--> XASN_13122011124151.csv data
+15/12/2011:1216 --> Sales Invoice does not exits : FileName =XASN_13122011124151.csv : Invoice No : 227
+15/12/2011:1216 --> Sales Invoice does not exits : FileName =XASN_13122011124151.csv : Invoice No : 227
+15/12/2011:1216 --> Importing FileName--> XASN_13122011124151.csv data completed
+15/12/2011:1216 --> Importing FileName--> XASN_13122011124151.csv data
+15/12/2011:1216 --> Purchase order does not exits : FileName =XASN_13122011124151.csv : Order No : 201103
+15/12/2011:1216 --> Purchase order does not exits : FileName =XASN_13122011124151.csv : Order No : 201103
+15/12/2011:1216 --> Importing FileName--> XASN_13122011124151.csv data completed
+15/12/2011:1216 --> Importing FileName--> XASN_13122011124151.csv data
+15/12/2011:1216 --> Return Document Created successfully. 20
+15/12/2011:1216 --> Importing FileName--> XASN_13122011124151.csv data completed
+15/12/2011:1216 --> XASN Import Completed
+15/12/2011:1216 --> Import Inventory adjustment processing...
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229 - Copy.csv data
+15/12/2011:1216 --> Goods Issue Document Created successfully. 35
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229 - Copy.csv data completed
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229.csv data
+15/12/2011:1216 --> Goods Issue Document Created successfully. 36
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229.csv data completed
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229 - Copy.csv data
+15/12/2011:1216 --> Goods Recipt Document Created successfully. 168
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229 - Copy.csv data completed
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229.csv data
+15/12/2011:1216 --> Goods Recipt Document Created successfully. 169
+15/12/2011:1216 --> Importing FileName--> XINV_14122011151229.csv data completed
+15/12/2011:1216 --> Import Adjustment files completed...
+15/12/2011:1216 --> Import XSO Processing...
+15/12/2011:1216 --> Importing FileName--> XSO_14122011150657.csv data
+15/12/2011:1216 --> Sales order does not exits : FileName =XSO_14122011150657.csv : Order No : 142790
+15/12/2011:1216 --> Importing FileName--> XSO_14122011150657.csv data completed
+15/12/2011:1216 --> Import XSO completed...
+15/12/2011:1216 --> Document Creation Process Completed....

@@ -1,0 +1,52 @@
+16/12/2011:1248 --> Reading shipment files...
+16/12/2011:1248 --> Reading Shipment file completed
+16/12/2011:1248 --> Reading ASN Files...
+16/12/2011:1248 --> Reading ADN File Completed
+16/12/2011:1248 --> Reading ADJ Files processing..
+16/12/2011:1248 --> Reading Adjustment file completed
+16/12/2011:1248 --> Reading HOLD Files processing..
+16/12/2011:1248 --> Reading HOLD file completed
+16/12/2011:1248 --> Import Reading files Processing...
+16/12/2011:1248 --> Import Reading files Process Completed....
+16/12/2011:1248 --> Document Creation Processing...
+16/12/2011:1248 --> XASN-GRPO Import starting...
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124151.csv data
+16/12/2011:1248 --> Purchase order does not exits : FileName =XASN_13122011124151.csv : Order No : 201103
+16/12/2011:1248 --> Purchase order does not exits : FileName =XASN_13122011124151.csv : Order No : 201103
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124151.csv data completed
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124152.csv data
+16/12/2011:1248 --> Purchase order does not exits : FileName =XASN_13122011124152.csv : Order No : 201103
+16/12/2011:1248 --> Purchase order does not exits : FileName =XASN_13122011124152.csv : Order No : 201103
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124152.csv data completed
+16/12/2011:1248 --> XASN-GRPO Import Completed
+16/12/2011:1248 --> XASN-RETURNS Import starting...
+16/12/2011:1248 --> Importing FileName--> XASN_14122011172135.csv data
+16/12/2011:1248 --> Invalid BP code  [ORDN.CardCode] , 'C705562' : FileName =XASN_14122011172135.csv
+16/12/2011:1248 --> Importing FileName--> XASN_14122011172135.csv data completed
+16/12/2011:1248 --> XASN-Returns Import Completed
+16/12/2011:1248 --> XASN-ARCR Import starting...
+16/12/2011:1248 --> Importing FileName--> XASN_14122011172135.csv data
+16/12/2011:1248 --> Sales Invoice does not exits : FileName =XASN_14122011172135.csv : Invoice No : 142790
+16/12/2011:1248 --> Importing FileName--> XASN_14122011172135.csv data completed
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124151.csv data
+16/12/2011:1248 --> Sales Invoice does not exits : FileName =XASN_13122011124151.csv : Invoice No : 227
+16/12/2011:1248 --> Sales Invoice does not exits : FileName =XASN_13122011124151.csv : Invoice No : 227
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124151.csv data completed
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124152.csv data
+16/12/2011:1248 --> Sales Invoice does not exits : FileName =XASN_13122011124152.csv : Invoice No : 227
+16/12/2011:1248 --> Sales Invoice does not exits : FileName =XASN_13122011124152.csv : Invoice No : 227
+16/12/2011:1248 --> Importing FileName--> XASN_13122011124152.csv data completed
+16/12/2011:1248 --> XASN-ARCR Import Completed
+16/12/2011:1248 --> Import Inventory adjustment processing...
+16/12/2011:1248 --> No records to Import
+16/12/2011:1248 --> Import XSO Processing...
+16/12/2011:1248 --> Importing FileName--> XSO_14122011150657.csv data
+16/12/2011:1248 --> Sales order does not exits : FileName =XSO_14122011150657.csv : Order No : 142790
+16/12/2011:1248 --> Importing FileName--> XSO_14122011150657.csv data completed
+16/12/2011:1248 --> Import XSO completed...
+16/12/2011:1248 --> XHOLD starting...
+16/12/2011:1248 --> Importing FileName--> XHOL_14122011125746.csv data
+16/12/2011:1248 -->  [OWTR.Filler] , 'No matching records found (ODBC -2028)' : FileName =XHOL_14122011125746.csv
+16/12/2011:1248 --> Importing FileName--> XHOL_14122011125746.csv data completed
+16/12/2011:1248 --> XHOLDImport Completed
+16/12/2011:1248 --> Document Creation Process Completed....

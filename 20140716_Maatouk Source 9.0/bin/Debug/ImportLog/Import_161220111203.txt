@@ -1,0 +1,16 @@
+16/12/2011:1203 --> Reading HOLD Files processing..
+16/12/2011:1203 --> Reading HOLD File Processing...File Name : XHOL_14122011125742.csv
+16/12/2011:1204 --> Reading Process Completed: Filename-->XHOL_14122011125742.csv Moved to success folder
+16/12/2011:1204 --> Reading HOLD file completed
+16/12/2011:1204 --> Import Reading files Processing...
+16/12/2011:1204 --> Import Reading files Process Completed....
+16/12/2011:1204 --> Document Creation Processing...
+16/12/2011:1204 --> XHOLD starting...
+16/12/2011:1204 --> Importing FileName--> XHOL_14122011125741.csv data
+16/12/2011:1204 --> Stock Transfer Document Created successfully. 2
+16/12/2011:1204 --> Importing FileName--> XHOL_14122011125741.csv data completed
+16/12/2011:1204 --> Importing FileName--> XHOL_14122011125742.csv data
+16/12/2011:1204 --> Stock Transfer Document Created successfully. 3
+16/12/2011:1204 --> Importing FileName--> XHOL_14122011125742.csv data completed
+16/12/2011:1204 --> XHOLDImport Completed
+16/12/2011:1204 --> Document Creation Process Completed....

@@ -1,0 +1,23 @@
+17/12/2011:1318 --> Reading shipment files...
+17/12/2011:1318 --> Reading Shipment file completed
+17/12/2011:1318 --> Import Reading files Processing...
+17/12/2011:1318 --> Import Reading files Process Completed....
+17/12/2011:1318 --> Document Creation Processing...
+17/12/2011:1318 --> Import XSO Processing...
+17/12/2011:1318 --> Importing FileName--> XSO_1412201115012.csv data
+17/12/2011:1318 --> Sales order does not exits : FileName =XSO_1412201115012.csv : Order No : 142826
+17/12/2011:1318 --> Importing FileName--> XSO_1412201115012.csv data completed
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150657.csv data
+17/12/2011:1318 --> Sales order does not exits : FileName =XSO_14122011150657.csv : Order No : 142826
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150657.csv data completed
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150658.csv data
+17/12/2011:1318 --> Sales order does not exits : FileName =XSO_14122011150658.csv : Order No : 142826
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150658.csv data completed
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150890.csv data
+17/12/2011:1318 --> Sales order does not exits : FileName =XSO_14122011150890.csv : Order No : 142826
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150890.csv data completed
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150890.csv data
+17/12/2011:1318 --> Sales order does not exits : FileName =XSO_14122011150890.csv : Order No : 254
+17/12/2011:1318 --> Importing FileName--> XSO_14122011150890.csv data completed
+17/12/2011:1318 --> Import XSO completed...
+17/12/2011:1318 --> Document Creation Process Completed....

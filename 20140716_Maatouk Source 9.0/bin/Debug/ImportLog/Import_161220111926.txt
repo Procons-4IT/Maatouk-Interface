@@ -1,0 +1,21 @@
+16/12/2011:1926 --> Reading ADJ Files processing..
+16/12/2011:1926 --> Reading Adjustment File Processing...File Name : XINV_13122011175602.csv
+16/12/2011:1926 --> Reading Process Completed: Filename-->XINV_13122011175602.csv Moved to success folder
+16/12/2011:1926 --> Reading Adjustment File Processing...File Name : XINV_14122011151212.csv
+16/12/2011:1926 --> Reading Process Completed: Filename-->XINV_14122011151212.csv Moved to success folder
+16/12/2011:1926 --> Reading Adjustment file completed
+16/12/2011:1926 --> Import Reading files Processing...
+16/12/2011:1926 --> Import Reading files Process Completed....
+16/12/2011:1926 --> Document Creation Processing...
+16/12/2011:1926 --> Import Inventory adjustment processing...
+16/12/2011:1926 --> Importing FileName--> XINV_13122011175602.csv data
+16/12/2011:1926 --> Goods Issue Document Created successfully. 46
+16/12/2011:1926 --> Importing FileName--> XINV_13122011175602.csv data completed
+16/12/2011:1926 --> Importing FileName--> XINV_13122011175602.csv data
+16/12/2011:1926 --> Goods Recipt Document Created successfully. 176
+16/12/2011:1926 --> Importing FileName--> XINV_13122011175602.csv data completed
+16/12/2011:1926 --> Importing FileName--> XINV_14122011151212.csv data
+16/12/2011:1926 --> Goods Recipt Document Created successfully. 177
+16/12/2011:1926 --> Importing FileName--> XINV_14122011151212.csv data completed
+16/12/2011:1926 --> Import Adjustment files completed...
+16/12/2011:1926 --> Document Creation Process Completed....

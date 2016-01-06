@@ -1,0 +1,34 @@
+18/12/2011:1251 --> Reading ASN Files...
+18/12/2011:1251 --> Reading ADN File Completed
+18/12/2011:1251 --> Import Reading files Processing...
+18/12/2011:1251 --> Import Reading files Process Completed....
+18/12/2011:1251 --> Document Creation Processing...
+18/12/2011:1251 --> XASN-GRPO Import starting...
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124151.csv data
+18/12/2011:1251 --> Purchase order does not exits : FileName =XASN_13122011124151.csv : Order No : 201103
+18/12/2011:1251 --> Purchase order does not exits : FileName =XASN_13122011124151.csv : Order No : 201103
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124151.csv data completed
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124152.csv data
+18/12/2011:1251 --> Purchase order does not exits : FileName =XASN_13122011124152.csv : Order No : 201103
+18/12/2011:1251 --> Purchase order does not exits : FileName =XASN_13122011124152.csv : Order No : 201103
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124152.csv data completed
+18/12/2011:1251 --> XASN-GRPO Import Completed
+18/12/2011:1251 --> XASN-RETURNS Import starting...
+18/12/2011:1251 --> Importing FileName--> XASN_14122011172135.csv data
+18/12/2011:1251 --> Invalid BP code  [ORDN.CardCode] , 'C705562' : FileName =XASN_14122011172135.csv
+18/12/2011:1251 --> Importing FileName--> XASN_14122011172135.csv data completed
+18/12/2011:1251 --> XASN-Returns Import Completed
+18/12/2011:1251 --> XASN-ARCR Import starting...
+18/12/2011:1251 --> Importing FileName--> XASN_14122011172135.csv data
+18/12/2011:1251 --> Sales Invoice does not exits : FileName =XASN_14122011172135.csv : Invoice No : 142790
+18/12/2011:1251 --> Importing FileName--> XASN_14122011172135.csv data completed
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124151.csv data
+18/12/2011:1251 --> Sales Invoice does not exits : FileName =XASN_13122011124151.csv : Invoice No : 227
+18/12/2011:1251 --> Sales Invoice does not exits : FileName =XASN_13122011124151.csv : Invoice No : 227
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124151.csv data completed
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124152.csv data
+18/12/2011:1251 --> Sales Invoice does not exits : FileName =XASN_13122011124152.csv : Invoice No : 227
+18/12/2011:1251 --> Sales Invoice does not exits : FileName =XASN_13122011124152.csv : Invoice No : 227
+18/12/2011:1251 --> Importing FileName--> XASN_13122011124152.csv data completed
+18/12/2011:1251 --> XASN-ARCR Import Completed
+18/12/2011:1251 --> Document Creation Process Completed....
